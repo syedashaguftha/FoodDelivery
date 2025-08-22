@@ -7,7 +7,11 @@
 <meta charset="ISO-8859-1">
 <title>Menu</title>
  <link rel="stylesheet" href="styleMenu.css">
-
+<style>
+h2{
+ color: #dc3545;
+ }
+ </style>
 </head>
 <body>
 		<h2>Menu</h2>
@@ -60,3 +64,4 @@
 </body>
 
 </html>
+
