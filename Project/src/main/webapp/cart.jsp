@@ -10,7 +10,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Cart</title>
 <link rel="stylesheet" href="cart.css">
 <style>
 body{
@@ -129,4 +129,5 @@ body{
 
 
 </body>
+
 </html>
