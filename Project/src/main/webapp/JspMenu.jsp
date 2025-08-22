@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Menu</title>
  <link rel="stylesheet" href="styleMenu.css">
 
 </head>
@@ -58,4 +58,5 @@
 		
 		</div>
 </body>
+
 </html>
